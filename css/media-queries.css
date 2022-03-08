@@ -3,7 +3,7 @@
   /* HERO */
   .hero-container {
     padding-top: 0;
-    min-height: 64rem;
+    min-height: 72rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -137,7 +137,7 @@
   }
 
   .header-logo img {
-    width: 13rem;
+    width: 20rem;
   }
 
   .nav-desktop {

@@ -20,13 +20,19 @@ header {
 .header-logo {
   display: flex;
   align-items: center;
-  height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  margin: 10px 34px;
+  
   cursor: pointer;
 }
 
 .header-logo img {
-  width: 9rem;
+  margin: -1px -215px;
+  width: 17rem;
+
 }
+
 
 /* Menu on mobile devices */
 .nav-mobile {

@@ -69,3 +69,28 @@
 .hero-terms-link:hover {
   color: var(--white);
 }
+
+/*search bar */
+/* styling search bar */
+.search input[type=text]{
+  width:500px;
+  height:35px;
+  border-radius:0px;
+  border: none;
+}
+    
+.search{
+  float:right;
+  margin:80px;
+}
+    
+.search button{
+  background-color: #09cf3b;
+  color: #f2f2f2;
+  float: right;
+  padding: 5px 10px;
+  margin-right: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}

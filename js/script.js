@@ -11,3 +11,9 @@ hamburgerToggler.addEventListener("change", (e) => {
     : (body.style.overflowY = "scroll");
 });
 
+function myFunction() {
+  var element = document.body;
+  element.classList.toggle("dark-mode");
+}
+
+

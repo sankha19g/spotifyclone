@@ -1,7 +1,7 @@
 
 
 body{
-  background-color: #4abd3fdc;
+  background: linear-gradient(55deg, #25a115 0%, #2c9b11 51%, #4687e7 85%);
   font-family: Open sans;
 }
 img{
@@ -50,7 +50,7 @@ h4{
   flex-direction: column;
   align-items: center;
   text-align: center;
-  padding: 5rem 1.5rem;
+  padding: 9rem 1.5rem;
 }
 
 /* select genre heading */

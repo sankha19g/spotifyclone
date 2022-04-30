@@ -9,11 +9,13 @@
     justify-content: center;
     background: radial-gradient(
       ellipse at center,
-      #fbcb6c 0%,
+      #070707 0%,
       #f3c65d 0%,
       #f2ae54 100%
     );
   }
+
+ 
 
   .hero-title {
     font-size: 6.5rem;
@@ -48,6 +50,7 @@
     box-sizing: border-box;
     padding: 0.8rem;
     position: relative;
+    
   }
 
   .album:first-child,
@@ -273,3 +276,5 @@
     width: 117rem;
   }
 }
+
+

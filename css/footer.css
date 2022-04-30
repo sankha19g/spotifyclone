@@ -4,6 +4,8 @@ footer {
   background: var(--black);
   padding-top: 5rem;
   padding-bottom: 2rem;
+  margin-top: 582px;
+  margin-bottom: 1px;
 }
 
 .footer-nav {

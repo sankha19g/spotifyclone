@@ -15,6 +15,14 @@
   align-items: center;
 }
 
+.hero-content img {
+  position: absolute;
+  top: 376px;
+  left: 48px;
+  width: 27%;
+  opacity: 86%;
+}
+
 .hero-title {
   font-size: 5rem;
   color: var(--white);
@@ -23,6 +31,10 @@
   margin-bottom: 4rem;
   line-height: 5rem;
   letter-spacing: -0.3rem;
+}
+.hero-title:hover{
+  color: black;
+
 }
 
 .hero-button {
@@ -41,6 +53,7 @@
 }
 
 .hero-button:hover {
+  color: black;
   background: var(--green1);
 }
 
@@ -83,6 +96,10 @@
   float:right;
   margin:80px;
 }
+.search input:hover{
+  background: rgba(255, 255, 255, 0.788);
+  
+}
     
 .search button{
   background-color: #09cf3b;
@@ -94,3 +111,10 @@
   border: none;
   cursor: pointer;
 }
+.search button:hover{
+background: rgb(4, 218, 4);
+color: black;
+}
+
+
+

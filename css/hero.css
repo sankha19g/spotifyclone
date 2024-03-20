@@ -15,13 +15,7 @@
   align-items: center;
 }
 
-.hero-content img {
-  position: absolute;
-  top: 376px;
-  left: 48px;
-  width: 27%;
-  opacity: 86%;
-}
+
 
 .hero-title {
   font-size: 5rem;
@@ -107,7 +101,7 @@
   float: right;
   padding: 5px 10px;
   margin-right: 16px;
-  font-size: 16px;
+  font-size: 21px;
   border: none;
   cursor: pointer;
 }
